@@ -21,7 +21,10 @@ La delimitación espacial comprende la señalada por el Plan General de Manejo d
 
 
 ![Área de estudio](HEPyMA.jpg)
-*Figura 1. Ubicación del área de estudio. Fuente: SINAC, 2018.* Disponible en (https://www.sinac.go.cr/ES/planmanejo/Plan%20Manejo%20ACOPAC/Humedal%20Estero%20Puntarenas%20y%20Manglares%20Asociados%20(2018).pdf)
+
+
+*Figura 1. Ubicación del área de estudio. Fuente: SINAC, 2018.* 
+Disponible en (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.sinac.go.cr/ES/planmanejo/Plan%20Manejo%20ACOPAC/Humedal%20Estero%20Puntarenas%20y%20Manglares%20Asociados%20(2018).pdf)
 
 
 ### PROBLEMA
@@ -114,7 +117,7 @@ Figura 2. Diagrama de metodología de tesis. Fuente: *Elaboración propia basado
 
 -	Álvarez Torres, B. (2022). El manglar como elemento de resiliencia sistémica en la comunidad de Puerto San Carlos, Baja California Sur. Un análisis de microescala. Tesis para optar por el grado de Maestría en Ciencias, uso Manejo y Preservación de los recursos naturales. Centro de Investigaciones Biológicas del Noroeste, SC. California, Estados Unidos.
 
--	Blanco Manley, Benjamín (2022). Destrucción de manglares deja a Puntarenas sin su mejor escudo contra el cambio climático. Blog de información Punto y Aparte. Disponible en https://www.puntoyaparte-ca.com/destruccion-de-manglares-deja-a-puntarenas-sin-su-mejor-escudo-contra-el-cambio-climatico/. Consultado el 05/05/23
+-	Blanco Manley, Benjamín (2022). Destrucción de manglares deja a Puntarenas sin su mejor escudo contra el cambio climático. Blog de información Punto y Aparte. Disponible en (https://www.puntoyaparte-ca.com/destruccion-de-manglares-deja-a-puntarenas-sin-su-mejor-escudo-contra-el-cambio-climatico/). Consultado el 05/05/23
 
 -	Braga Rocha, U. (2015). El cambio en la morfología costera, los problemas y recomendaciones para una gestión integrada en Playa Azul, distrito de Tárcoles, Costa Rica. Tesis (maestría académica en gestión integrada de áreas costeras tropicales) --Universidad de Costa Rica. Sistema de Estudios de Posgrado.
 
@@ -132,7 +135,7 @@ Figura 2. Diagrama de metodología de tesis. Fuente: *Elaboración propia basado
 
 -	Mena, M. (2012). Análisis retrospectivo de la cobertura en los manglares Estero Morales y Cocoroca, en el Golfo de Nicoya, Puntarenas, Costa Rica. Tesis Lic. en Ciencias geográficas con énfasis en Ordenamiento del Territorio. Heredia, Costa Rica. Universidad Nacional.
 
--	Muñoz Aguayo, P. (2013). Apuntes de teledetección: índices de vegetación. Biblioteca digital del Centro de Información de Recursos Naturales CIREN (Chile). Disponible en: https://bibliotecadigital.ciren.cl/handle/20.500.13082/26389. Consultado el: 15/05/23.
+-	Muñoz Aguayo, P. (2013). Apuntes de teledetección: índices de vegetación. Biblioteca digital del Centro de Información de Recursos Naturales CIREN (Chile). Disponible en: (https://bibliotecadigital.ciren.cl/handle/20.500.13082/26389). Consultado el: 15/05/23.
 
 -	Nova-Bustos, N., Guzmán-Sánchez, Y., & Guevara-Mora, M. (2022). Estructura y cuantificación de basura acumulada en la zona interna del manglar de Puntarenas, Costa Rica. Revista Forestal Mesoamericana Kurú.
 
@@ -152,6 +155,6 @@ Figura 2. Diagrama de metodología de tesis. Fuente: *Elaboración propia basado
 
 -	Villatoro, B. (2021). Uso de índices de vegetación NDWI y MSI obtenidos de imágenes satelitales Sentinel-2 y Landsat 8 para monitoreo de humedad, como indicador de momento óptimo de cosecha en caña de azúcar. CENGICAÑA: Memoria Presentación de resultados de investigación Zafra 2020 – 2021.
 
--	Yoma, R., Francke, S., Carnieletto, C., Rivera, H., & Nakagawa, M. (2008). Informe técnico de la contribución de CONAF a la estrategia nacional de cuencas. Santiago, Chile. Disponible en https://bibliotecadigital.ciren.cl/handle/20.500.13082/147702. Consultado el 15/05/23.
+-	Yoma, R., Francke, S., Carnieletto, C., Rivera, H., & Nakagawa, M. (2008). Informe técnico de la contribución de CONAF a la estrategia nacional de cuencas. Santiago, Chile. Disponible en (https://bibliotecadigital.ciren.cl/handle/20.500.13082/147702). Consultado el 15/05/23.
 
 
