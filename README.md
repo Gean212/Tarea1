@@ -110,21 +110,48 @@ También llamada matriz de error o tabla de contingencia y sirve para validar la
 ![Metodología de Tesis](METODOLOGÍA.jpg)
 Figura 2. Diagrama de metodología de tesis. Fuente: *Elaboración propia basado en metodología de Torres (2022)*
 
+### BIBLIOGRAFÍA
+
+-	Álvarez Torres, B. (2022). El manglar como elemento de resiliencia sistémica en la comunidad de Puerto San Carlos, Baja California Sur. Un análisis de microescala. Tesis para optar por el grado de Maestría en Ciencias, uso Manejo y Preservación de los recursos naturales. Centro de Investigaciones Biológicas del Noroeste, SC. California, Estados Unidos.
+
+-	Blanco Manley, Benjamín (2022). Destrucción de manglares deja a Puntarenas sin su mejor escudo contra el cambio climático. Blog de información Punto y Aparte. Disponible en https://www.puntoyaparte-ca.com/destruccion-de-manglares-deja-a-puntarenas-sin-su-mejor-escudo-contra-el-cambio-climatico/. Consultado el 05/05/23
+
+-	Braga Rocha, U. (2015). El cambio en la morfología costera, los problemas y recomendaciones para una gestión integrada en Playa Azul, distrito de Tárcoles, Costa Rica. Tesis (maestría académica en gestión integrada de áreas costeras tropicales) --Universidad de Costa Rica. Sistema de Estudios de Posgrado.
+
+-	Cifuentes, M., Brenes, C., Manrow, M., & Torres, D. (2014). Dinámica de uso de la Tierra y Potencial de Mitigación de los Manglares del Golfo de Nicoya. Conservación Internacional: San José, Costa Rica.
+
+-	Da Silva, C. J., Insaurralde, J. A., & Cardozo, O. D. (2014). Cartografía de coberturas del suelo mediante sensores remotos, de la ciudad de Resistencia. Revista Geográfica Digital. IGUNNE. Facultad de Humanidades. UNNE. Argentina (2013).
+
+-	Guadalupe, A. O. B. (2021). Análisis multitemporal del cambio de cobertura vegetal y usos del suelo mediante herramientas SIG y Teledetección en la Reserva Ecológica Mache Chindul (REMACH), 1996-2019 (Doctoral dissertation, Ecuador-PUCESE-Escuela de Gestión Ambiental).
+
+-	López Soler, S. (2021). Desplazamiento forzado y manglar en el Pacífico colombiano (Tumaco-Nariño) una valoración integral de la biodiversidad. Trabajo de Grado en la Modalidad de Tesis para optar al título de Administrador Ambiental. Disponible en: http://hdl.handle.net/11349/25990. Consultado el 5/5/23
+
+-	Manrique, E. G. (1999). Índice de vegetación. Aplicación del NDVI. En TELEDETECCIÓN. Avances y Aplicaciones. VIII Congreso Nacional de Teledetección. Albacete, España (pp. 217-219).
+
+-	Martínez Martínez, M. A. (2022). Caracterización del cambio global en los trópicos entre 1992 y 2015. Tesis para optar al grado y título de Maestría Académica en Geografía. San José, Costa Rica. Universidad de Costa Rica.
+
+-	Mena, M. (2012). Análisis retrospectivo de la cobertura en los manglares Estero Morales y Cocoroca, en el Golfo de Nicoya, Puntarenas, Costa Rica. Tesis Lic. en Ciencias geográficas con énfasis en Ordenamiento del Territorio. Heredia, Costa Rica. Universidad Nacional.
+
+-	Muñoz Aguayo, P. (2013). Apuntes de teledetección: índices de vegetación. Biblioteca digital del Centro de Información de Recursos Naturales CIREN (Chile). Disponible en: https://bibliotecadigital.ciren.cl/handle/20.500.13082/26389. Consultado el: 15/05/23.
+
+-	Nova-Bustos, N., Guzmán-Sánchez, Y., & Guevara-Mora, M. (2022). Estructura y cuantificación de basura acumulada en la zona interna del manglar de Puntarenas, Costa Rica. Revista Forestal Mesoamericana Kurú.
+
+-	Perea-Ardila, MA, Oviedo-Barrero, F., & Leal-Villamil, J. (2019). Cartografía de bosques de manglar mediante imágenes de sensores remotos: estudio de caso Buenaventura, Colombia. Revista de Teledetección, (53), 73-86.
+
+-	Rueda Calier, F., Peñaranda Mallungo, L. A., Velásquez Vargas, W. L., & Díaz Báez, S. A. (2015). Aplicación de una metodología de análisis de datos obtenidos por percepción remota orientados a la estimación de la productividad de caña para panela al cuantificar el NDVI (índice de vegetación de diferencia normalizada). Ciencia y tecnología agropecuaria, 16(1), 25-40.
+
+-	Segura Herrera, M (2020). Correlación entre la humedad del suelo y los índices NDVI y NDWI como indicativo del estrés hídrico en el cultivo de caña de azúcar (Saccharum Officinarum) en la variedad BC 001220, Ingenio Taboga 2019. Ingeniería Agronómica con Énfasis en Riego y Drenaje, Universidad Técnica Nacional.
+
+-	SINAC (2018).  Plan   General   de   Manejo   del   humedal   estero   Puntarenas y manglares asociados, Sistema Nacional de Áreas de Conservación.
+
+-	SINAC. 2019. Estrategia Regional para el Manejo y Conservación de los Manglares en el Golfo de Nicoya-Costa Rica-2019-2030. San José-Costa Rica
+
+-	Torres Obregón, O. E. (2022). Diseño de una metodología para el mapeo de la concentración de manglar en la bahía del distrito de Buenaventura del Valle del Cauca a partir de imágenes satelitales. Trabajo de Grado, Facultad de Ingeniería, Universidad del Valle, Colombia.
+
+-	Uriarte Blake, C. N., & Orozco González, M. A. (2019). Análisis de la dinámica de usos del suelo de la Reserva Natural Estero Real, mediante el uso de teledetección. Tesis (Ing. en Sistemas de Información)-Universidad Nacional Autónoma de Nicaragua, León.
+
+-	Villatoro, B. (2021). Uso de índices de vegetación NDWI y MSI obtenidos de imágenes satelitales Sentinel-2 y Landsat 8 para monitoreo de humedad, como indicador de momento óptimo de cosecha en caña de azúcar. CENGICAÑA: Memoria Presentación de resultados de investigación Zafra 2020 – 2021.
+
+-	Yoma, R., Francke, S., Carnieletto, C., Rivera, H., & Nakagawa, M. (2008). Informe técnico de la contribución de CONAF a la estrategia nacional de cuencas. Santiago, Chile. Disponible en https://bibliotecadigital.ciren.cl/handle/20.500.13082/147702. Consultado el 15/05/23.
 
 
-
-
-Profesional en SIG de la Municipalidad de Puntarenas [Sitio Web de la Municipalidad de Puntarenas](https://munipuntarenas.maps.arcgis.com/home/index.html)
-
-## Grado Académico
-Licenciatura en Geografía de la Universidad de Costa Rica
-
-### Áreas de Interés
-
-- SIG
-- Ordenamiento Territorial
-- Gestión del Riesgo
-- Gestión de Proyectos
-
-#### Experiencia laboral
-**8 años**
